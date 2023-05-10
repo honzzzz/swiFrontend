@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chevrolet",
+      "model": "Camaro",
+      "price": 2300000,
+      "image": "http://localhost:3000/chevrolet-camaro.png"
+    },
+    {
+      "id": 2,
+      "name": "Bugatti",
+      "model": "Veyron",
+      "price": 1600000,
+      "image": "http://localhost:3000/bugatti-veyron.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BMW",
+      "model": "Z4",
+      "price": 900000,
+      "image": "http://localhost:3000/bmw-z4.jpg"
+    }
+  ]
+}
